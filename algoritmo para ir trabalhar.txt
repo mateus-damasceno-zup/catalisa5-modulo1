@@ -1,0 +1,16 @@
+algoritmo para ir trabalhar
+
+1. inicio
+2. acordar
+3. ir ao banheiro
+4. tomar o resto cafe do dia anterior
+5. acender um cigarro
+6. prepara cafe novo
+7. passar o cafe
+8. enquanto tomar cafe com leite
+	8.1 comer pao com margarina;
+9. escovar os dentes
+10. ir para o escritorio
+11. ligar computador.
+12. logar livepass.
+13. fim.
